@@ -1,0 +1,3 @@
+My Name is Niharika
+I am from BSC-CS-B
+I learned to store and manage the code using GitHub
